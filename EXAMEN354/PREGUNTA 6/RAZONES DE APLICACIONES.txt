@@ -1,0 +1,5 @@
+A) Aplicar una técnica de escala conocida como "MinMax Scaling" o "Normalización Min-Max" se usa para ajustar y escalar valores de datos en un rango específico, típicamente entre 0 y 1. Esto es útil para que diferentes características tengan la misma escala y para que ciertos algoritmos de aprendizaje automático funcionen mejor. 
+
+B) Se utiliza para realizar la codificación de etiquetas, que es un proceso en el que se asigna un valor numérico único a cada categoría o etiqueta en una variable categórica. Esto es especialmente útil en el aprendizaje automático, ya que muchos algoritmos requieren que las características de entrada sean numéricas en lugar de categorías de texto.
+
+C) El preprocesamiento de datos que agrupa valores en rangos sirve para hacer que los datos sean más fáciles de entender y visualizar. Esto se hace dividiendo los valores en categorías amplias, lo que simplifica la información y puede ayudar a tomar decisiones más claras y sencillas.

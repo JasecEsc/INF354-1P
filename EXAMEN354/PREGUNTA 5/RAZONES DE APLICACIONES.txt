@@ -1,0 +1,7 @@
+NORMALIZE: Para ajustar todos los valores en tu conjunto de datos para que estén en la misma "escala" o rango, como si estuvieras poniendo todas las características en la misma unidad de medida. Esto se hace para que ninguna característica tenga una influencia demasiado grande o demasiado pequeña en los resultados de un modelo de aprendizaje automático
+
+ReplaceMissingValues:Sirve para lidiar con los valores que faltan en tus datos. Cuando trabajas con conjuntos de datos, es común encontrarte con datos faltantes en algunas celdas. Esta opción te permite decidir qué hacer con esas celdas vacías
+
+ReplaceWithMissibgValues: Un filtro que se puede utilizar para introducir valores faltantes en un conjunto de datos. La probabilidad especificada se utiliza para lanzar una moneda sesgada y decidir si se reemplaza un valor de atributo particular en una instancia con un valor faltante (es decir, una probabilidad de 0,9 significa que el 90% de los valores se reemplazarán con valores faltantes). Este filtro solo modifica el primer lote de datos que se procesa. El atributo de clase se omite de forma predeterminada.
+
+Standardize: ajusta los datos para que tengan una media de cero y una desviación estándar de uno. Esto facilita la comparación y el análisis de los datos.Centrar los datos y Escalar los datos
